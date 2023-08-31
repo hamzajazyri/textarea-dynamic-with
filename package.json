@@ -1,0 +1,14 @@
+{
+  "name": "textarea-fullwidth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "server": "http-server -p 8080"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
